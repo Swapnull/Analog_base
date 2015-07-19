@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "me@martynrushton.com",
+    "longName": "Analog-Base",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/analog-base-image.png",
+                "menuIcon": true,
+                "name": "ANALOG_BASE_MAIN",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Analog-Base",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0b3b598e-0cac-4c89-b587-3c6f68afa283",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
